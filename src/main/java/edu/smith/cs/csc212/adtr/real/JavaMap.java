@@ -49,6 +49,7 @@ public class JavaMap<K,V> extends MapADT<K,V> {
 	@Override
 	public int size() {
 		return this.data.size();
+		// test comment
 	}
 
 	@Override
